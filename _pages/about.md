@@ -7,19 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Associated Professor, School of Applied Science, Beijing information Science & TechnologyUniversity,
+Associated Professor, School of Applied Science, Beijing information Science & Technology University.  
+Research Interests: Numerical Linear Algebra; Fractional Partial Differential Equations.  
+Teaching Courses: Numerical Analysis; Numerical Linear Algebra; Engineering Mathematics;Matrix Theory and lts Applications.  
 
-Research Interests: Numerical Linear Algebra; Fractional Partial Differential
+(1) Zhong-Zhi Bai#*, **Kang-Ya Lu**, Jian-Yu Pan, Diagonal and Toeplitz splitting iteration methods for diagonal-plus-Toeplitz linear systems from spatial fractional diffusion equations, Numerical Linear Algebra with Applications, 2017, 24(4): 1-15(e2093).
 
-EquationsTeaching Courses: Numerical Analysis; Numerical Linear Algebra; Engineering Mathematics;Matrix Theory and lts Applications.
+(2) **Kang-Ya Lu#***, Diagonal and circulant or skew-circulant splitting preconditioners for spatial fractional diffusion equations, Computational and Applied Mathematics, 2018, 37(4): 4196-4218.
 
-(1) Zhong-Zhi Bai#*, Kang-Ya Lu, Jian-Yu Pan, Diagonal and Toeplitz splitting iteration methods for diagonal-plus-Toeplitz linear systems from spatial fractional diffusion
-equations, Numerical Linear Algebra with Applications, 2017, 24(4): 1-15(e2093).
-
-(2) Kang-Ya Lu#*, Diagonal and circulant or skew-circulant splitting preconditioners for spatial fractional diffusion equations, Computational and Applied Mathematics, 2018,
-37(4): 4196-4218.
-
-(3) Zhong-Zhi Bai#*, Kang-Ya Lu, On banded M-splitting iteration methods for solving discretized spatial fractional diffusion equations, BIT Numerical Mathematics, 2019, 59(1):1-33.
+(3) Zhong-Zhi Bai#*, **Kang-Ya Lu**, On banded M-splitting iteration methods for solving discretized spatial fractional diffusion equations, BIT Numerical Mathematics, 2019, 59(1):1-33.
 
 (4) Zhong-Zhi Bai#*, **Kang-Ya Lu**, On regularized Hermitian splitting iteration methods for solving discretized almost isotropic spatial fractional diffusion equations, Numerical Linear Algebra with Applications, 27(2020), 1-21(e2274).
 
@@ -33,10 +29,8 @@ equations, Numerical Linear Algebra with Applications, 2017, 24(4): 1-15(e2093).
 
 (9) Zhong-Zhi Bai#*, **Kang-Ya Lu**; An economic implementation of the optimal rotated block-diagonal preconditioning method, *Numerical Algorithms*, 93(2023), 85–101.
 
-(10) Kang-Ya Lu#, Cun-Qiang Miao*; Matrix splitting preconditioning based on sine
-transform for solving two-dimensional space-fractional diffusion equations, Mathematics and Computers in Simulation, 2023, 1-20, [Redirecting](https://doi.org/10.1016/j.matcom.2023.08.044 "Persistent link using digital object identifier").
+(10) **Kang-Ya Lu#**, Cun-Qiang Miao*; Matrix splitting preconditioning based on sine transform for solving two-dimensional space-fractional diffusion equations, Mathematics and Computers in Simulation, 2023, 1-20, [Redirecting](https://doi.org/10.1016/j.matcom.2023.08.044 "Persistent link using digital object identifier").
 
-(11) Kang-Ya Lu#, Cun-Qiang Miao*; Computing interior eigenpairs in augmented Krylov subspace produced by Jacobi-Davidson correction equation, Japan Journal of Industrial and Applied Mathematics, 2023, 1-16, [Computing interior eigenpairs in augmented Krylov subspace produced by Jacobi–Davidson correction equation | Japan Journal of Industrial and Applied Mathematics](https://doi.org/10.1007/s13160-023-00636-0).
+(11) **Kang-Ya Lu#**, Cun-Qiang Miao*; Computing interior eigenpairs in augmented Krylov subspace produced by Jacobi-Davidson correction equation, Japan Journal of Industrial and Applied Mathematics, 2023, 1-16, [Computing interior eigenpairs in augmented Krylov subspace produced by Jacobi–Davidson correction equation | Japan Journal of Industrial and Applied Mathematics](https://doi.org/10.1007/s13160-023-00636-0).
 
-(12) Kang-Ya Lu#*, Shu-Jiao Li; Semi-regularized Hermitian and Skew-Hermitian splitting preconditioning for Saddle-point linear systems, Communications on Applied
-Mathematics and Computation, 5(2023), 1422-1445.
+(12) **Kang-Ya Lu#***, Shu-Jiao Li; Semi-regularized Hermitian and Skew-Hermitian splitting preconditioning for Saddle-point linear systems, Communications on Applied Mathematics and Computation, 5(2023), 1422-1445.
