@@ -12,7 +12,7 @@ title                    : "路康亚"
 title_separator          : "-"
 name                     : &name "lukangya.github.io"
 description              : &description "Scienfic Explorer"
-url                      : https://lukangya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lukylky.github.io/lukangya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lukylky.github.io/lukangya.github.io"
 
