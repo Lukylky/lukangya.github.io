@@ -11,6 +11,7 @@ Associated Professor, School of Applied Science, Beijing information Science & T
 Research Interests: Numerical Linear Algebra; Fractional Partial Differential Equations.  
 Teaching Courses: Numerical Analysis; Numerical Linear Algebra; Engineering Mathematics;Matrix Theory and lts Applications.  
 
+# Publications  
 (1) Zhong-Zhi Bai#*, **Kang-Ya Lu**, Jian-Yu Pan, Diagonal and Toeplitz splitting iteration methods for diagonal-plus-Toeplitz linear systems from spatial fractional diffusion equations, Numerical Linear Algebra with Applications, 2017, 24(4): 1-15(e2093).
 
 (2) **Kang-Ya Lu#***, Diagonal and circulant or skew-circulant splitting preconditioners for spatial fractional diffusion equations, Computational and Applied Mathematics, 2018, 37(4): 4196-4218.
