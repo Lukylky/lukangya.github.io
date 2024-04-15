@@ -21,7 +21,7 @@ repository               : "lukylky.github.io/lukangya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/1.png"
+  avatar           : "1.png"
   name             : "Kang-Ya Lu"
   pronouns         : # example: "she/her"  
   bio              : "Scienfic Explorer"
