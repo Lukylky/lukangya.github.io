@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2017
 venue: 'Numerical Linear Algebra with Applications'
-paperurl: #'[paper1.pdf](https://link.springer.com/article/10.1007/s40314-017-0570-6)'
+paperurl: 
 citation: 'Zhong-Zhi Bai#*, Kang-Ya Lu, Jian-Yu Pan, Diagonal and Toeplitz splitting iteration methods for diagonal-plus-Toeplitz linear systems from spatial fractional diffusion equations, Numerical Linear Algebra with Applications, 2017, 24(4): 1-15(e2093).'
 ---
 
