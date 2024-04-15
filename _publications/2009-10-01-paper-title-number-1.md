@@ -1,7 +1,7 @@
 ---
 title: "Diagonal and circulant or skew-circulant splitting preconditioners for spatial fractional diffusion equations"
 collection: publications
-permalink: /_publication/2009-10-01-paper-title-number-1
+permalink: /_publications/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2017-01-01
 venue: 'Numerical Linear Algebra with Applications'
