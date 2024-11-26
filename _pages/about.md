@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Associated Professor, School of Applied Science, Beijing information Science & Technology University.  
+Associate Professor, School of Applied Science, Beijing information Science & Technology University.  
 Research Interests: Numerical Linear Algebra; Fractional Partial Differential Equations.  
 Teaching Courses: Numerical Analysis; Numerical Linear Algebra; Engineering Mathematics;Matrix Theory and lts Applications.  
